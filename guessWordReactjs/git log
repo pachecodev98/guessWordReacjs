@@ -1,0 +1,32 @@
+[33mcommit 73142c8e14157580bca71d382fcd0b64a19b1c47[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Natã Pacheco <natan.pacheco.1998@gmail.com>
+Date:   Wed Sep 7 21:59:49 2022 -0300
+
+    first commit
+
+ .gitignore                     |    23 [32m+[m
+ README.md                      |    70 [32m+[m
+ package-lock.json              | 28731 [32m+++++++++++++++++++++++++++++++++++++++[m
+ package.json                   |    38 [32m+[m
+ public/favicon.ico             |   Bin [31m0[m -> [32m3870[m bytes
+ public/index.html              |    32 [32m+[m
+ public/logo192.png             |   Bin [31m0[m -> [32m5347[m bytes
+ public/logo512.png             |   Bin [31m0[m -> [32m9664[m bytes
+ public/manifest.json           |    25 [32m+[m
+ public/robots.txt              |     3 [32m+[m
+ src/App.css                    |     6 [32m+[m
+ src/App.js                     |   168 [32m+[m
+ src/App.test.js                |     8 [32m+[m
+ src/components/Game.css        |    46 [32m+[m
+ src/components/Game.js         |    62 [32m+[m
+ src/components/GameOver.css    |     4 [32m+[m
+ src/components/GameOver.js     |    13 [32m+[m
+ src/components/StartScreen.css |     8 [32m+[m
+ src/components/StartScreen.js  |    13 [32m+[m
+ src/data/words.js              |     8 [32m+[m
+ src/index.css                  |    29 [32m+[m
+ src/index.js                   |    17 [32m+[m
+ src/logo.svg                   |     1 [32m+[m
+ src/reportWebVitals.js         |    13 [32m+[m
+ src/setupTests.js              |     5 [32m+[m
+ 25 files changed, 29323 insertions(+)
